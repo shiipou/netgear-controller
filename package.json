@@ -1,0 +1,24 @@
+{
+  "name": "netgear_reboot",
+  "version": "0.0.1",
+  "description": "Reboot your Netgear M1100 when You got the bug that disconnect it to internet.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+git@github.com/nocturlab/netgear-m1100.git"
+  },
+  "keywords": [
+    "netgear",
+    "nodejs",
+    "reboot",
+    "fix"
+  ],
+  "dependencies": {
+    "request": "^2.88.0"
+  },
+  "author": "shiishii",
+  "license": "Apache-2.0"
+}
